@@ -16,15 +16,6 @@
  - Markdown
 
  ---
- ## Autor
-
- - [Luana Barbosa](https://github.com/luanabarbosa07/)
-
- ## RedesSocial
-
- - [_LuuCode](https://www.instagram.com/_luucode/)
-
-
  # Web Site
 
 ### Objetivo Principal
@@ -45,4 +36,4 @@ Acompanhe os projetos abaixo e crie e compartilhe:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/luanabarbosa07)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/luana-barbosa-1344ba16b/)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_luucode/) 
+[![Instagram Badge](https://img.shields.io/badge/-instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_luucode/) 
