@@ -36,4 +36,4 @@ Acompanhe os projetos abaixo e crie e compartilhe:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/luanabarbosa07)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/luana-barbosa-1344ba16b/)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-pink?&style=flat-square&logo=instagram&logoColor=pink)](https://www.instagram.com/_luucode/) 
+[![Instagram Badge](https://img.shields.io/badge/-instagram-?&style=flat-square&logo=instagram&logoColor=pink)](https://www.instagram.com/_luucode/) 
