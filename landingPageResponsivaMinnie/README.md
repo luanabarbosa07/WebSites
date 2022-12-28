@@ -2,7 +2,6 @@
 
  ![](./screenshot/screenshot.png)
 
-[Clique aqui](https://luanabarbosa07.github.io/WebSites/landingPageResponsivaMinnie/) para acessar o projeto.
  ---
  ## Sobre
  Site do tipo landing page para divulgar a personagem que minha filha gosta Let's Go, Minnie.
