@@ -40,17 +40,6 @@ O desafio é pegar projetos no Figma e criar  sites, tentando ser o mais fiel po
 
 Acompanhe os projetos abaixo e crie e compartilhe:
 
-<table border="2">
-  <tr>
-    <td>
-        <h3>Landing Page</h3>
-        <li><a href="./01-FirstLandingPage/">Código</a></li>
-        <li><a href="https://youtu.be/LvywYjDEK6I">Passo a passo</a></li>
-        <a href="https://fernandoleonid.github.io/figma-to-website/01-FirstLandingPage/"><img src="./.images/01.gif" width="500px"></a>
-    </td>
-  </tr>
-</table>
-
 ### Autor
 ---
 
