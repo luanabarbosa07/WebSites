@@ -1,8 +1,5 @@
  # Landing Page - Let's Go, Minnie
 
- ![](./screenshot/screenshot.png)
-
-[Clique aqui](https://luanabarbosa07.github.io/minnie/) para acessar o projeto.
  ---
  ## Sobre
  Site do tipo landing page para divulgar a personagem que minha filha gosta Let's Go, Minnie.
